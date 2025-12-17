@@ -1,7 +1,10 @@
 {
   "mcpServers": {
     "create-mcp": {
-      "url": "https://create.broisnees.workers.dev/mcp"
+      "url": "http://localhost:5173/mcp",
+      "dev": {
+        "debug": true
+      }
     }
   }
 }

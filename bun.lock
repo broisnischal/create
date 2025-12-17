@@ -11,6 +11,7 @@
         "react-dom": "^19.2.3",
         "react-router": "7.10.1",
         "remix-utils": "^9.0.0",
+        "zod": "^4.2.1",
       },
       "devDependencies": {
         "@cloudflare/vite-plugin": "^1.13.7",
