@@ -12,10 +12,12 @@
     "typecheck": "npm run cf-typegen && react-router typegen && tsc -b"
   },
   "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.25.1",
     "isbot": "^5.1.31",
     "react": "^19.2.3",
     "react-dom": "^19.2.3",
-    "react-router": "7.10.1"
+    "react-router": "7.10.1",
+    "remix-utils": "^9.0.0"
   },
   "devDependencies": {
     "@cloudflare/vite-plugin": "^1.13.7",

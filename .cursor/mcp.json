@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "create-mcp": {
+      "url": "https://create.broisnees.workers.dev/mcp"
+    }
+  }
+}
